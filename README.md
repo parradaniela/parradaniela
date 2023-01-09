@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Daniela!
+### Hi there 👋 I'm Daniela!
 
 I'm a front-end developer focusing on JavaScript and React to design responsive, accessible web apps. Welcome to my Github page! I recently graduated from Juno College of Technology's Web Development Bootcamp and am excited to continue on my developer journey. 
 
