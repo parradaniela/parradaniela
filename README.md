@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Daniela👋</h1>
 <h3>I'm a frontend developer specializing in Reactjs to design responsive, accessible web apps. I have a background in event and project management and am very excited to be on this developer journey!</h3>
 
-- 🔭 I’m currently working on: [converting a job board site mockup into a React+TS app](https://github.com/parradaniela/jobi-jobboard)
+- 🔭 My most recent project is: [A React+TS landing page for a job board website, converted from a figma mockup](https://github.com/parradaniela/jobi-jobboard)
 
-- 🌱 I’m currently learning: **JavaScript algorithms and data structures, TailwindCSS and React Router**
+- 🌱 I’m currently learning: **Algorithms and data structures**
 
-- 💡 I plan to learn: **Nextjs and Nodejs**
+- 💡 I plan to learn: **Nextjs and Kotlin**
 
 - 👨‍💻 All of my projects are available at: [https://danielaparra.com](https://danielaparra.com)
 
