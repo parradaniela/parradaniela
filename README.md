@@ -3,13 +3,13 @@
 
 - 🔭 My most recent project is: [A React+TS landing page for a job board website, converted from a figma mockup](https://github.com/parradaniela/jobi-jobboard)
 
-- 🌱 I’m currently learning: **Algorithms and data structures**
+- 🌱 I’m currently learning: **Unit Testing with Jest, Algorithms and Data Structures**
 
-- 💡 I plan to learn: **Nextjs and Kotlin**
+- 💡 In the near future, I want to learn: **Nextjs and Kotlin**
 
-- 👨‍💻 All of my projects are available at: [https://danielaparra.com](https://danielaparra.com)
+- 👨‍💻 My portfolio page is at: [https://danielaparra.com](https://danielaparra.com)
 
-- 💬 Ask me about: **React, Typescript, or my two lovely cats 🐈**
+- 💬 Topics I'm interested in: **Mobile Development, Design Systems, Cat pictures 🐈**
 
 - 📫 How to reach me: **Shoot me an email at daniela.parra.lp@gmail.com**
 
