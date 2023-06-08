@@ -1,15 +1,17 @@
 <h1 align="center">Hi, I'm Daniela👋</h1>
 <h3>I'm a frontend developer specializing in Reactjs to design responsive, accessible web apps. I have a background in event and project management and am very excited to be on this developer journey!</h3>
 
-- 🔭 My most recent project is: [A React+TS landing page for a job board website, converted from a figma mockup](https://github.com/parradaniela/jobi-jobboard)
+- 🔧 I'm currently working on: [A full stack Event Planning app with a team of developers](https://github.com/EOT-Event-Organizer-s-Toolbox/eot-codebase)
 
-- 🌱 I’m currently learning: **Unit Testing with Jest, Algorithms and Data Structures**
+- 🔭 My most recent completed project is: [A React+TS job board website, converted from a figma mockup](https://github.com/parradaniela/jobi-jobboard)
 
-- 💡 In the near future, I want to learn: **Nextjs and Kotlin**
+- 🌱 I’m currently learning: **Nextjs, Algorithms and Data Structures**
+
+- 💡 In the near future, I want to learn: **Kotlin**
 
 - 👨‍💻 My portfolio page is at: [https://danielaparra.com](https://danielaparra.com)
 
-- 💬 Topics I'm interested in: **Mobile Development, Design Systems, Cat pictures 🐈**
+- 💬 Topics I'm interested in: **Mobile Development, Design Systems, Web Accessibility, Cat pictures 🐈**
 
 - 📫 How to reach me: **Shoot me an email at daniela.parra.lp@gmail.com**
 
