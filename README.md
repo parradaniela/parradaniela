@@ -1,21 +1,21 @@
 <h1 align="center">Hi, I'm Daniela👋</h1>
 <h3>I'm a frontend developer specializing in Reactjs to design responsive, accessible web apps. I have a background in event and project management and am very excited to be on this developer journey!</h3>
 
-- 🔧 I'm currently working on: Planning a full stack application
+- 🔧 I've been working on: [A Stardew Valley Catalogue Application](https://github.com/parradaniela/stardew-checklist)
 
 - 🔭 My most recent completed project is: [A React+TS job board website, converted from a figma mockup](https://github.com/parradaniela/jobi-jobboard)
 
-- 🌱 I’m currently learning: **MongoDB**
+- 🌱 I’m currently learning: **Python**
 
-- 💡 In the near future, I want to learn: **NextJS**
+- 💡 In the near future, I want to learn: **More complex back end development, and Go**
 
 - 👨‍💻 My portfolio page is at: [https://danielaparra.com](https://danielaparra.com)
 
-- 💬 Topics I'm interested in: **Mobile Development, Design Systems, Web Accessibility, Cat pictures 🐈**
+- 💬 Topics I'm interested in: **Mobile Development, Design Systems, Web Accessibility, Cats 🐈**
 
 - 📫 How to reach me: **Shoot me an email at daniela.parra.lp@gmail.com**
 
-- ⚡ Fun fact: **I'm a big fan of aerial fitness and practice aerial hoop and silks!**
+- ⚡ Fun fact: **I've recently tried out hip hop dancing and love it!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
